@@ -34,7 +34,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "^0.0.32",
     "karma-webpack": "^2.0.13",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
